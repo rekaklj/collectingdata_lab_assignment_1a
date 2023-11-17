@@ -1,6 +1,6 @@
 # collectingdata_lab_assignment_1a
 
-**Title**: Processing of Sentences Temporal Connectives Dataset
+**Title**: Processing of Sentences Containing Temporal Connectives Dataset
 
 **Description**:
 <br>data underpinning the paper: *Children's processing and comprehension of complex sentences containing temporal connectives: The influence of memory on the time course of accurate responses*<br>The dataset shows children's comprehension of the temporal expressions 'before' and 'after' in complex sentences. The children are aged 3 to 7.
