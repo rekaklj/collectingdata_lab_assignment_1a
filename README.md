@@ -3,7 +3,11 @@
 Title: Processing of Sentences Temporal Connectives Dataset
 
 Description:
-Data underpinning the linked paper: Children's processing and comprehension of complex sentences containing temporal connectives: The influence of memory on the time course of accurate responses.
+Data underpinning the paper: Children's processing and comprehension of complex sentences containing temporal connectives: The influence of memory on the time course of accurate responses
+The dataset shows children’s comprehension of the temporal expressions ‘before’ and ‘after’ in complex sentences. The children are aged 3 to 7.
+
+Variables:
+subject (the participant), months (the age of the participant), memory (participant memory scores), vocabulary (participant vocabulary scores), item (item number: 1 to 64), rt (reaction time), correct (correct or incorrect), sentence (experimental sentence), connective (the temporal expression ‘before’ or ‘after’), position (the position of the connective in the experimental sentence), order (the order of mention of events in the sentence is chronological or reverse-chronological), age (the participant is 3to4, 4to5, 5to6, or 6to7 years old)
 
 Creator: Liam Blything
 
