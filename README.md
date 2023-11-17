@@ -4,6 +4,7 @@ Title: Processing of Sentences Temporal Connectives Dataset
 
 Description:
 Data underpinning the paper: Children's processing and comprehension of complex sentences containing temporal connectives: The influence of memory on the time course of accurate responses
+
 The dataset shows children’s comprehension of the temporal expressions ‘before’ and ‘after’ in complex sentences. The children are aged 3 to 7.
 
 Variables:
@@ -19,7 +20,8 @@ Date of data production: 30/01/2015 - 30/06/2015
 
 Research outputs:
 Children's processing and comprehension of complex sentences containing temporal connectives: the influence of memory on the time course of accurate responses
-Contribution to Journal/Magazine › Journal article › peer-review
+
+https://www.research.lancs.ac.uk/portal/en/publications/childrens-processing-and-comprehension-of-complex-sentences-containing-temporal-connectives(baf286a7-67ab-40da-b7cb-6496aefb6343).html
 
 Source: https://www.research.lancs.ac.uk/portal/en/datasets/processing-of-sentences-temporal-connectives-dataset(679fea18-50bf-488f-9084-86e02c807d5b).html
 
