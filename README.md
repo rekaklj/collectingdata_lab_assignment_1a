@@ -17,7 +17,7 @@ subject (the participant), months (the age of the participant), memory (particip
 **Date of data production**: 30/01/2015 - 30/06/2015
 
 **Research outputs**:
-Blything, L. P., & Cain, K. E. (2016). Children's processing and comprehension of complex sentences containing temporal connectives: the influence of memory on the time course of accurate responses. Developmental Psychology, 52(10), 1517-1529. https://doi.org/10.1037/dev0000201<br>https://www.research.lancs.ac.uk/portal/en/publications/childrens-processing-and-comprehension-of-complex-sentences-containing-temporal-connectives(baf286a7-67ab-40da-b7cb-6496aefb6343).html
+<br>Blything, L. P., & Cain, K. E. (2016). Children's processing and comprehension of complex sentences containing temporal connectives: the influence of memory on the time course of accurate responses. Developmental Psychology, 52(10), 1517-1529. https://doi.org/10.1037/dev0000201<br>https://www.research.lancs.ac.uk/portal/en/publications/childrens-processing-and-comprehension-of-complex-sentences-containing-temporal-connectives(baf286a7-67ab-40da-b7cb-6496aefb6343).html
 
 **Source**: https://www.research.lancs.ac.uk/portal/en/datasets/processing-of-sentences-temporal-connectives-dataset(679fea18-50bf-488f-9084-86e02c807d5b).html
 
